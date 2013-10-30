@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+
+# Files to Ignore
+bin/
+build/
+.classpath
+.project
